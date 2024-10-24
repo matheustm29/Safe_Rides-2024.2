@@ -10,7 +10,7 @@ SAFE RIDES
 ## Integrantes do Grupo
 | Nome               | RA                            | GitHub                       |
 |--------------------|---------------------------------|------------------------------|
-| Matheus Ferreira Alphonse dos Anjos        | 2454220(#)                    | [GitHub 1](https://github.com/matheustm29) |
+| Matheus Ferreira Alphonse dos Anjos        | 2454220                    | [GitHub 1](https://github.com/matheustm29) |
 | Integrante 2        | ![Foto 2](#)                    | [GitHub 2](https://github.com/usuario2) |
 | Integrante 3        | ![Foto 3](#)                    | [GitHub 3](https://github.com/usuario3) |
 <!-- Adicione mais linhas conforme necessário -->
@@ -32,9 +32,7 @@ Descrever o objetivo do software (ex.: facilitar a organização e o controle de
 O sistema é voltado para a equipe Rocket UTFPR, com foco nos alunos e professores que participam do desenvolvimento dos foguetes.
 
 ## Documentos no Repositório
-- Prototipação(#) <!-- Link será adicionado posteriormente -->
+- [Prototipação](#) <!-- Link será adicionado posteriormente -->
 - [Requisitos de Sistema](#)
 - [Requisitos de Usuário](#)
-- [Relatórios de Progresso](#)
-- [Diagramas e Arquitetura](#)
 
