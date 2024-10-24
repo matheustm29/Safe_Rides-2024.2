@@ -2,9 +2,11 @@
 <img src="https://joyride.city/wp-content/uploads/2022/08/Safe-Ride_Promo-0-1024x1024.png" alt="Logo do Grupo" width="300"/>
  <!-- Aqui você pode inserir o link da imagem do logo -->
 
+<div style="background-color: lightblue; padding: 10px;">
 ## Desenvolvimento Ágil
 **Ano:** 2024  
 **Semestre:** 2º
+</div>
 
 ## Integrantes do Grupo
 | Nome               | RA                            | GitHub                       |
