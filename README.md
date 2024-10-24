@@ -1,5 +1,5 @@
 # SAFE RIDES
-<img src="" alt="Logo do Grupo" width="300"/>
+<img src="prototipação/logo1.jpeg" alt="Logo do Grupo" width="300"/>
  <!-- Aqui você pode inserir o link da imagem do logo -->
 
 ## Desenvolvimento Ágil
