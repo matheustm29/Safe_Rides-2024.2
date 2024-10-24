@@ -1,5 +1,5 @@
 # SAFE RIDES
-![Logo do Grupo](https://joyride.city/wp-content/uploads/2022/08/Safe-Ride_Promo-0-1024x1024.png)
+![Logo do Grupo]<img src="https://joyride.city/wp-content/uploads/2022/08/Safe-Ride_Promo-0-1024x1024.png" alt="Logo do Grupo" width="300"/>
  <!-- Aqui você pode inserir o link da imagem do logo -->
 
 ## Desenvolvimento Ágil
