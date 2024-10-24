@@ -10,8 +10,9 @@
 | Nome               | RA                            | GitHub                       |
 |--------------------|---------------------------------|------------------------------|
 | Matheus Ferreira Alphonse dos Anjos        | 2454220                    | [matheustm29](https://github.com/matheustm29) |
-| Integrante 2        | ![Foto 2](#)                    | [GitHub 2](https://github.com/usuario2) |
+| Fabio Hideki Sato    | 2465655                | [fabiosato0](https://github.com/fabiosato0) |
 | Integrante 3        | ![Foto 3](#)                    | [GitHub 3](https://github.com/usuario3) |
+| Integrante 4        | ![Foto 4](#)                    | [GitHub 4](https://github.com/usuario4) |
 <!-- Adicione mais linhas conforme necessário -->
 
 ## Descrição do Projeto
