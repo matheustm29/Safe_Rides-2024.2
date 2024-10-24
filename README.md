@@ -16,7 +16,7 @@
 <!-- Adicione mais linhas conforme necessário -->
 
 ## Descrição do Projeto
-O projeto tem como objetivo **descrever o objetivo do projeto** (ex.: criar um sistema de gerenciamento de estoque para a equipe de foguetes). 
+Plataforma que irá conectar pais de alunos de escolas e transportes escolares, afim de facilitar ambos os lados, visto que hoje, isso se dá por meio de indicações de conhecidos ou por cartão dos "tios escolares".
 
 ### Objetivo
 Descrever o objetivo do software (ex.: facilitar a organização e o controle de peças e materiais utilizados no desenvolvimento dos foguetes da equipe Rocket UTFPR).
