@@ -16,20 +16,19 @@
 <!-- Adicione mais linhas conforme necessário -->
 
 ## Descrição do Projeto
-Plataforma que irá conectar pais de alunos de escolas e transportes escolares, afim de facilitar ambos os lados, visto que hoje, isso se dá por meio de indicações de conhecidos ou por cartão dos "tios escolares".
+O projeto "Safe Rides" seria uma plataforma que visa conectar pais de alunos e transportes escolares de maneira prática e segura, substituindo os métodos tradicionais, como indicações ou cartões de contato dos "tios escolares". A ideia é centralizar e otimizar a busca por serviços de transporte escolar, fornecendo uma solução moderna para ambos os lados.
 
 ### Objetivo
 Descrever o objetivo do software (ex.: facilitar a organização e o controle de peças e materiais utilizados no desenvolvimento dos foguetes da equipe Rocket UTFPR).
 
 ### Funcionalidades principais
-- Controle de estoque detalhado com **cadastro e consulta de itens**.
-- Acompanhamento dos materiais usados na construção dos foguetes.
-- Associação dos materiais com processos e atividades dos integrantes da equipe.
-- Geração de relatórios e dashboards por meio de ferramentas de BI.
-- **Integração física** com circuito e visor LCD para exibição de status em tempo real.
+- **Cadastro e verificação de motoristas:** Os motoristas passaram, fornecendo informações detalhadas sobre suas rotas, horários, tipo de veículo e capacidade, além de documentação em dia.
+- **Filtro de localização:** Os filhos serão direcionados para os motoristas mais próximos, afim de gerar um custo menor para a carona.
+- **Sistema de avaliação:** Os pais poderão avaliar os motoristas, tanto quanto os motoristas poderão avaliar seus filhos.
+- **Segurança:** Os pais poderão acompanhar o trajeto dos seus filhos em tempo real.
 
 ### Público-alvo
-O sistema é voltado para a equipe Rocket UTFPR, com foco nos alunos e professores que participam do desenvolvimento dos foguetes.
+O sistema é voltado para pais e responsáveis que procuram uma carona segura, além de ajudar motoristas que procuram trabalho e escolas que precisam de meio de transporte.
 
 ## Documentos no Repositório
 - [Prototipação](#) <!-- Link será adicionado posteriormente -->
