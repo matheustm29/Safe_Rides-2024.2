@@ -1,5 +1,5 @@
 # Nome do Grupo
-![Logo do Grupo]([[#](https://joyride.city/apps/saferide/)](https://joyride.city/wp-content/uploads/2022/08/Safe-Ride_Promo-0-1024x1024.png)) <!-- Aqui você pode inserir o link da imagem do logo -->
+![Logo do Grupo](https://joyride.city/apps/saferide/)](https://joyride.city/wp-content/uploads/2022/08/Safe-Ride_Promo-0-1024x1024.png) <!-- Aqui você pode inserir o link da imagem do logo -->
 SAFE RIDES
 
 ## Disciplina
