@@ -1,5 +1,5 @@
 # Nome do Grupo
-![Logo do Grupo](#) <!-- Aqui você pode inserir o link da imagem do logo -->
+![Logo do Grupo]([#](https://joyride.city/apps/saferide/)) <!-- Aqui você pode inserir o link da imagem do logo -->
 SAFE RIDES
 
 ## Disciplina
