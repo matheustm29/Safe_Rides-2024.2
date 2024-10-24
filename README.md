@@ -1,8 +1,7 @@
 # SAFE RIDES
 [Logo do Grupo](https://joyride.city/wp-content/uploads/2022/08/Safe-Ride_Promo-0-1024x1024.png) <!-- Aqui você pode inserir o link da imagem do logo -->
 
-## Disciplina
-**Disciplina:** Desenvolvimento Ágil 
+## Desenvolvimento Ágil
 **Ano:** 2024  
 **Semestre:** 2º Semestre
 
