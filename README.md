@@ -10,7 +10,7 @@ SAFE RIDES
 ## Integrantes do Grupo
 | Nome               | RA                            | GitHub                       |
 |--------------------|---------------------------------|------------------------------|
-| Matheus Ferreira Alphonse dos Anjos        | 2454220                    | [GitHub](https://github.com/matheustm29) |
+| Matheus Ferreira Alphonse dos Anjos        | 2454220                    | [matheustm29](https://github.com/matheustm29) |
 | Integrante 2        | ![Foto 2](#)                    | [GitHub 2](https://github.com/usuario2) |
 | Integrante 3        | ![Foto 3](#)                    | [GitHub 3](https://github.com/usuario3) |
 <!-- Adicione mais linhas conforme necessário -->
