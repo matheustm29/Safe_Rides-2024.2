@@ -11,7 +11,7 @@
 |--------------------|---------------------------------|------------------------------|
 | Matheus Ferreira Alphonse dos Anjos        | 2454220                    | [matheustm29](https://github.com/matheustm29) |
 | Fabio Hideki Sato    | 2465655                | [fabiosato0](https://github.com/fabiosato0) |
-| Integrante 3        | ![Foto 3](#)                    | [GitHub 3](https://github.com/usuario3) |
+| Allan Vinicios Ferraz Santos  | 2465272                    | [alllanvfs](https://github.com/alllanvfs) |
 | Integrante 4        | ![Foto 4](#)                    | [GitHub 4](https://github.com/usuario4) |
 <!-- Adicione mais linhas conforme necessário -->
 
