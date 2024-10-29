@@ -19,7 +19,7 @@
 O projeto "Safe Rides" será uma plataforma que visa conectar pais de alunos e transportes escolares de maneira prática e segura, substituindo os métodos tradicionais, como indicações ou cartões de contato dos "tios escolares". A ideia é centralizar e otimizar a busca por serviços de transporte escolar, fornecendo uma solução moderna para ambos os lados.
 
 ### Objetivo
-Descrever o objetivo do software (ex.: facilitar a organização e o controle de peças e materiais utilizados no desenvolvimento dos foguetes da equipe Rocket UTFPR).
+O objetivo do projeto é facilitar e tornar mais seguro o processo de conexão entre pais de alunos e motoristas de transporte escolar, oferecendo uma plataforma centralizada onde esses serviços possam ser encontrados, avaliados e contratados de forma prática e confiável. Em vez de depender de indicações informais ou contatos distribuídos, o "Safe Rides" visa criar um ambiente organizado e seguro, onde os pais possam ter acesso a informações detalhadas sobre motoristas (incluindo trajetos, horários e qualificações) e acompanhar, em tempo real, o transporte dos seus filhos.
 
 ### Funcionalidades principais
 - **Cadastro e verificação de motoristas:** Os motoristas passaram, fornecendo informações detalhadas sobre suas rotas, horários, tipo de veículo e capacidade, além de documentação em dia.
