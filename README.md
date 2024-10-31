@@ -31,7 +31,7 @@ O objetivo do projeto é facilitar e tornar mais seguro o processo de conexão e
 O sistema é voltado para pais e responsáveis que procuram uma carona segura, além de ajudar motoristas que procuram trabalho e escolas que precisam de meio de transporte.
 
 ## Documentos no Repositório
-- [Prototipação](#) <!-- Link será adicionado posteriormente -->
-- [Requisitos de Sistema](#)
-- [Requisitos de Usuário](#)
+- [Prototipação](https://github.com/matheustm29/Safe_Rides-2024.2/tree/main/Prototipa%C3%A7%C3%A3o) <!-- Link será adicionado posteriormente -->
+- [Requisitos de Sistema]()
+- [Requisitos de Usuário](https://github.com/matheustm29/Safe_Rides-2024.2/tree/main/Requisitos%20de%20Usu%C3%A1rio)
 
