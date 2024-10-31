@@ -12,7 +12,7 @@
 | Matheus Ferreira Alphonse dos Anjos        | 2454220                    | [matheustm29](https://github.com/matheustm29) |
 | Fabio Hideki Sato    | 2465655                | [fabiosato0](https://github.com/fabiosato0) |
 | Allan Vinicios Ferraz Santos  | 2465272                    | [alllanvfs](https://github.com/alllanvfs) |
-| Louise Paccola Peccin        | 2475502                    | [GitHub 4](https://github.com/louise-peccin) |
+| Louise Paccola Peccin        | 2475502                    | [louise-peccin](https://github.com/louise-peccin) |
 <!-- Adicione mais linhas conforme necessário -->
 
 ## Descrição do Projeto
