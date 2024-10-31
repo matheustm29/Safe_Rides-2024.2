@@ -25,7 +25,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             </ol>
             </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF?</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF05</td>
         </tr>
         <tr>
             <span id="ustory-01"></span>
@@ -38,7 +38,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             </ol>
             </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"> Média </td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF?</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF02</td>
         </tr>
         <tr>
             <span id="ustory-01"></span>
@@ -51,7 +51,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
                 </ol>
                 </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Baixa</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">-</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RNF03</td>
         </tr>
         <tr>
             <span id="ustory-01"></span>
@@ -65,7 +65,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
                 </ol>
                 </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">-</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF09</td>
         </tr>
 </table>
 
