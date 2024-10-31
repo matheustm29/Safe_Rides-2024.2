@@ -4,12 +4,17 @@
 
 | ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 |              O usuário deve poder personalizar seu ambiente.              |  Média     |    RF12     |
-| RF02 |           O usuário deve poder acessar o seu progresso no jogo.           |  Alta      |      RF25   |
-| RF03 |              O usuário deve poder acessar seu nível no jogo.              |  Baixa     |     -       |
-| RF04 |                 O usuário deve poder ver suas conquistas.                 |            |             |
-| RF05 |        O usuário deve poder escolher a dificuldade de suas lições.        |            |             |
-| RF06 |       O usuário deve poder determinar metas diárias a ser comprida.       |            |             |
+| RF01 |             Cadastro de pais e responsáveis                               |  Alta      |     -    |
+| RF02 |           Cadastro de motoristas.                                         |  Alta      |    -    |
+| RF03 |              Criação de perfil.              |  Média     |     RF01/RF02       |
+| RF04 |                 Busca de Motoristas por Localidade e Escola                 |     Alta          |     RF02        |
+| RF05 |        Avaliação e Comentários dos Motoristas        |   Média         |      RF02       |
+| RF06 |       Sistema de Notificações em Tempo Real       |      Média      |      RF04       |
+| RF07 |       Sistema de Pagamento Integrado       |      Baixa      |      RF01       |
+| RF08 |       Histórico de Viagens       |      Baixa      |      RF05       |
+| RF09 |        Rastreamento em Tempo Real do Transporte       |      Alta      |      RF06       |
+| RF10 |        Denúncia de Comentários ou Motoristas       |      Média      |      RF08      |
+
 
 
 <div style="text-align: center">
