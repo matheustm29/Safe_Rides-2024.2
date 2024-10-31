@@ -4,11 +4,11 @@
 
 | ID   |                                 Requisito NF                              | Categoria/Tipo | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: |:-------------: | :--------: | :-----------------: |
-| RF01 |  O sistema deve criptografar todas as informações sensíveis para garantir a segurança e a privacidade dos dados. | Produto/Usabilidade  |Alta      |    RNF04             |
-| RF02 |  O sistema deve ser capaz de suportar pelo menos 1.000 acessos simultâneos, com tempo de resposta máximo de 2 segundos para as principais operações     |  Produto/eficiência     |Alta        |    -              |
-| RF03 |  A interface da plataforma deve ser intuitiva e fácil de usar, permitindo que os pais, motoristas e administradores realizem suas atividades com um mínimo de aprendizado              |  Organizacionais/Implementação       |Média       |     -               |
-| RF04 |  O sistema deve fazer um Backup mensal             |  Organizacionais/Usabilidade       |Baixa       |     -               |
-| RF05 |  O sistema deve ser first mobile             |  Produto/Eficiência       |Alta      |     RF03              |
+| RNF01 |  O sistema deve criptografar todas as informações sensíveis para garantir a segurança e a privacidade dos dados. | Produto/Usabilidade  |Alta      |    RNF04             |
+| RNF02 |  O sistema deve ser capaz de suportar pelo menos 1.000 acessos simultâneos, com tempo de resposta máximo de 2 segundos para as principais operações     |  Produto/eficiência     |Alta        |    -              |
+| RNF03 |  A interface da plataforma deve ser intuitiva e fácil de usar, permitindo que os pais, motoristas e administradores realizem suas atividades com um mínimo de aprendizado              |  Organizacionais/Implementação       |Média       |     -               |
+| RNF04 |  O sistema deve fazer um Backup mensal             |  Organizacionais/Usabilidade       |Baixa       |     -               |
+| RNF05 |  O sistema deve ser first mobile             |  Produto/Eficiência       |Alta      |     RF03              |
 
 <div style="text-align: center">
 <p>Tabela 2: Requisitos Não Funcionais</p>
