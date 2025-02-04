@@ -16,12 +16,12 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
         <tr>
             <span id="ustory-01"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US01</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como um pai, quero visualizar as avaliações e comentários de outros pais sobre os motoristas, para que eu possa tomar uma decisão informada ao escolher um transporte para meu filho.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como pai, quero visualizar as avaliações e comentários de outros pais sobre os motoristas para tomar uma decisão informada e segura ao escolher o transporte do meu filho.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">
             <ol>
-                <li>O sistema deve exibir uma lista de motoristas disponíveis, cada um com sua respectiva pontuação de avaliação (por exemplo, de 1 a 5 estrelas).</li>
-                <li>O sistema deve permitir que os pais visualizem comentários detalhados deixados por outros pais sobre o motorista.</li>
-                <li>A interface de exibição das avaliações deve ser clara e fácil de usar, permitindo que os pais naveguem rapidamente pelas avaliações.</li>
+                <li>As avaliações devem ser apresentadas de forma clara e fácil de entender, utilizando um sistema de notas ou estrelas acompanhado de comentários escritos e organizados de maneira legível.</li>
+                <li>A interface deve permitir que os pais filtrem e ordenem as avaliações por critérios como melhor avaliação, mais recentes ou motoristas mais avaliados. </li>
+                <li>A navegação deve ser rápida e intuitiva, com um layout organizado, botões de acesso direto e respostas ágeis para que os pais encontrem as informações desejadas com o mínimo de esforço.</li>
             </ol>
             </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
